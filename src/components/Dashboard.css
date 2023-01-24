@@ -1,0 +1,27 @@
+.dashboard {
+  width: 100vw;
+}
+.table {
+  width: 100vw;
+  text-align: center;
+}
+.thead {
+  background-color: #ff8c00;
+  color: white;
+  font-weight: 10;
+}
+
+.thead tr th {
+  border: 2px solid white;
+  border-radius: 8px;
+}
+
+td {
+  border: 2px solid rgb(180, 176, 176);
+  border-radius: 8px;
+}
+
+.update-btn:hover {
+  background-color: white;
+  border: 1px solid #ff8c00;
+}
